@@ -1,0 +1,6 @@
+face_encodings.json
+*.spec
+*.env
+identify/*
+load/*
+venv/
